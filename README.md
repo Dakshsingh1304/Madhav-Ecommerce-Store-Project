@@ -1,2 +1,4 @@
 # Madhav-Ecommerce-Store-Project
-A Power BI project analyzing sales, profit, and regional performance for Madhav Ecommerce Store. Includes data cleaning, modeling, and an interactive dashboard to derive key business insights.
+This Power BI project analyzes sales, profit, and performance metrics for Madhav Ecommerce Store. The dashboard provides actionable insights into product categories, subcategories, customer segments, and geographical sales distribution. It is designed to help business stakeholders monitor KPIs, identify trends, and make data-driven decisions for improving revenue and profitability.
+## Project File
+
